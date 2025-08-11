@@ -1,7 +1,9 @@
 # Data Cleaning and Analysis with Python & Pandas
 
-![Sales by Month](images/sales_by_month.png)
-![Top Cities](images/top_cities.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d01bcfa-736f-4470-92ca-9a7a73475303" width="45%" />
+  <img src="https://github.com/user-attachments/assets/380c6395-e538-4618-a679-d3709e3040f9" width="45%" />
+</p>
 
 This project analyzes 12 months of sales data from an electronics store using **Python**, **Pandas**, and **Matplotlib**.  
 It merges CSV files, cleans and preprocesses the data, and answers business questions through exploratory data analysis and visualizations.
